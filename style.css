@@ -36,9 +36,14 @@
     display: flex;
     justify-content: center;
     align-items: center ;
+    padding: 36px 0 ;
 }
 
 .salao-div-conteudo {
     width: 35%;
 
+}
+
+.salao-titulo {
+    padding: 24px 0;
 }
