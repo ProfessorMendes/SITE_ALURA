@@ -31,5 +31,14 @@
 
 
 .salao {
-    background-image: linear-gradient(brown,rgb(186, 110, 110));    
+    background-image: linear-gradient(brown,rgb(186, 110, 110)); 
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+.salao-div-conteudo {
+    width: 35%;
+
 }
